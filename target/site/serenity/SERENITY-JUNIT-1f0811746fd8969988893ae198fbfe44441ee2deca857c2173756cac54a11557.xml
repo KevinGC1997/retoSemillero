@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Create user" skipped="0" tests="3" time="18.17" timestamp="2023-08-30 11:19:03"><testcase name="Create user successfully."/><testcase name="Update user successfully."/><testcase name="Delete user successfully."><error message="null" type="java.lang.AssertionError">null</error><system-err>null&#13;
+com.fakestoreapi.stepDefinitions.DeleteUserStepDef.iCanValidateTheDataInTheServiceResponse(DeleteUserStepDef.java:45)&#13;
+✽.I can validate the data in the service response(file:///C:/Users/Kevin/IdeaProjects/fakeStoreService/src/test/resources/features/FakeStoreApi.feature:16)&#13;
+</system-err></testcase></testsuite>
